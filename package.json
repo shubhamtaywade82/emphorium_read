@@ -1,0 +1,19 @@
+{
+  "name": "emphorium_read",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhamtaywade82/emphorium_read.git"
+  },
+  "author": "Shubham Taywade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamtaywade82/emphorium_read/issues"
+  },
+  "homepage": "https://github.com/shubhamtaywade82/emphorium_read#readme"
+}
